@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "proton1999.github.io",
+  "Id": "600497e5-2b55-4b9a-853f-62439e0fc179"
+}
